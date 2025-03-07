@@ -15,6 +15,13 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 md:px-6 relative z-10">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="w-full lg:w-1/2 space-y-8 animate-fade-in">
+            {/* Animated label above the main heading */}
+            <div className="inline-block animate-slide-up">
+              <span className="bg-nightwatch-purple/20 text-nightwatch-light-purple text-sm md:text-base px-4 py-2 rounded-full backdrop-blur-sm border border-nightwatch-purple/30">
+                #1 Website Monitoring Tool
+              </span>
+            </div>
+            
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
               Monitor Your Website <span className="gradient-text">Performance & Rankings</span>
             </h1>
