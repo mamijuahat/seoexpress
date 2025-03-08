@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-6 py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12">
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">Nightwatch</h3>
+            <h3 className="text-xl font-bold text-white mb-4">SEOExpress</h3>
             <p className="mb-6">
               The all-in-one website monitoring solution for SEO, performance, and uptime tracking.
             </p>
@@ -96,8 +96,8 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <Mail size={18} className="mr-3 text-white/60" />
-                <a href="mailto:support@nightwatch.io" className="text-white/60 hover:text-white transition-colors">
-                  support@nightwatch.io
+                <a href="mailto:support@seoexpress.com" className="text-white/60 hover:text-white transition-colors">
+                  support@seoexpress.com
                 </a>
               </li>
               <li className="flex items-center">
@@ -120,7 +120,7 @@ const Footer = () => {
         
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-white/60 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Nightwatch. All rights reserved.
+            &copy; {new Date().getFullYear()} SEOExpress. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <Link to="#" className="text-white/60 hover:text-white text-sm transition-colors">
