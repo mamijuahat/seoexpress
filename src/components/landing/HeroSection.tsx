@@ -23,7 +23,7 @@ const HeroSection = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              Monitor Your Website <span className="gradient-text">Performance & Rankings</span>
+              <span className="gradient-text">SEO & Social Media Marketing Terbaik</span> – Tingkatkan Bisnis Anda Sekarang!
             </h1>
             
             <p className="text-lg md:text-xl text-white/80 max-w-xl">
