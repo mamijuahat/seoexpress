@@ -18,7 +18,7 @@ const HeroSection = () => {
             {/* Animated label above the main heading */}
             <div className="inline-block animate-slide-up">
               <span className="bg-nightwatch-purple/20 text-nightwatch-light-purple text-sm md:text-base px-4 py-2 rounded-full backdrop-blur-sm border border-nightwatch-purple/30">
-                #1 Website Monitoring Tool
+                #1 Ranking di Google Sekarang
               </span>
             </div>
             
